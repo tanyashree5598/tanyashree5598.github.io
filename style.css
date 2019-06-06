@@ -1,0 +1,33 @@
+ 
+        h1{
+            color:red;
+            background:yellow;
+        }    
+        
+        #first{
+            color:yellow;
+            background:black;
+        }
+        
+        p{
+            color:#800080;
+        }
+        
+        li{
+            color:#8B4513;
+        
+        }
+        
+        body{
+            
+            color:maroon;
+            background:#FFE4E1;
+        }
+        
+        
+        th{
+            background: white;
+            color: green;
+        }
+        
+    
