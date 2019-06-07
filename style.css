@@ -9,15 +9,13 @@ h3{
 
 }
 
-ol{ 
-   color:maroon;
+li
+{
+    color:maroon;
+background:aqua white;
 
 }
 
-tr
-{background: white;
-
-}
 .box
 {
     background:pink;
