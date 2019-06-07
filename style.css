@@ -1,33 +1,32 @@
- 
-        h1{
-            color:red;
-            background:yellow;
-        }    
-        
-        #first{
-            color:yellow;
-            background:black;
-        }
-        
-        p{
-            color:#800080;
-        }
-        
-        li{
-            color:#8B4513;
-        
-        }
-        
-        body{
-            
-            color:maroon;
-            background:#FFE4E1;
-        }
-        
-        
-        th{
-            background: white;
-            color: green;
-        }
-        
+h1{
+    color:blue;
     
+}
+h3{
+    
+    color:red;
+    background: yellow;
+
+}
+
+.box
+{
+    background:pink;
+    background-image: url("Japanese-Cherry-Blossom-Fragrance-Oil.jpg");
+     margin: 350px;
+     padding:75px;
+
+}
+
+body{
+     background:#f6e58d;
+    
+
+}
+#image{
+    border:10px solid red;
+    width: 200px;
+    height: 200px;
+    margin: 100px;
+}
+
